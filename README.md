@@ -15,34 +15,40 @@
 </p>
 
 ## Hi Everyone 👋
+
 I'm a software engineer from India, learning and growing together. 🚀
 
 <details>
 <summary>
-  Details 
+  Details
 </summary>
 
 ### **Web Technologies**
-* JavaScript 🌐
-* HTML, CSS 🎨
-* Node.js 🌳
-* SCSS 🎨
-* React.js ⚛️
+
+- JavaScript 🌐
+- HTML, CSS 🎨
+- Node.js 🌳
+- SCSS 🎨
+- React.js ⚛️
 
 ### **Application Development**
-* C++ 💪
-* Java (sort of) ☕
+
+- C++ 💪
+- Java (sort of) ☕
 
 ### **Productivity Utilities**
-* Vim (Faster and Better for efficiency) ⚡
-* Tmux (Session Manager for Projects) 📦
-* Linux (Using Hyprland Window Manager) 🐧
+
+- Vim (Faster and Better for efficiency) ⚡
+- Tmux (Session Manager for Projects) 📦
+- Linux (Using Hyprland Window Manager) 🐧
 
 ### **Languages**
-* English 🇬🇧
-* Hindi 🇮🇳
+
+- English 🇬🇧
+- Hindi 🇮🇳
 
 ## **What I'm Currently Learning**
-* Building Projects 🛠️
-* Exploring and adapting new web technologies 🌐
-* Started Learning into Machine Learning 🧠
+
+- Building Projects 🛠️
+- Exploring and adapting new web technologies 🌐
+- Started Learning into Machine Learning 🧠
