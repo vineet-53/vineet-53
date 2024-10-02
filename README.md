@@ -1,4 +1,4 @@
-# Vineet Singh
+# 🏄‍♂️ Vineet Singh
 
 **`(Developer/Freelancer)`**
 
@@ -6,7 +6,7 @@ I'm an indie full-stack developer and freelancer, dedicated to crafting my uniqu
 
 ---
 
-### **Langualges/Technologies**
+### 🧰 Languages and Tools
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -18,16 +18,18 @@ I'm an indie full-stack developer and freelancer, dedicated to crafting my uniqu
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
 <br />
 
-### **Productivity Utilities**
+#
+
+### 🚀 Productivity Utilities
 
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
 <br />
+
+#
 
 ### 📊 Stats
 
