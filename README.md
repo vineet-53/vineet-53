@@ -2,7 +2,7 @@
 
 **`(Developer/Freelancer)`**
 
-I'm an indie full-stack developer and freelancer, dedicated to crafting my unique version of the digital world, one project at a time. I’m currently focused on refining my project-building skills and diving deeper into the fascinating field of machine learning. Always looking to learn, collaborate, and innovate—feel free to connect and follow along on my journey! 🚀
+I'm an indie full-stack developer and freelancer, dedicated to crafting my unique version of the digital world, one project at a time. I’m currently focused on refining my project-building skills and always looking to learn, collaborate, and innovate—feel free to connect and follow along on my journey! 🚀
 
 ---
 
