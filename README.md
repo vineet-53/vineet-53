@@ -31,8 +31,6 @@ I'm an indie full-stack developer and freelancer, dedicated to crafting my uniqu
 
 ### 📊 Stats
 
-#
-
 ![Vineet Singh GitHub stats](https://github-readme-stats.vercel.app/api?username=vineet-53&show_icons=true&theme=gruvbox)
 
 ### Social Profile Links
