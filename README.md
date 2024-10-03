@@ -27,6 +27,8 @@ I'm an indie full-stack developer and freelancer, dedicated to crafting my uniqu
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
+#
+
 ### 📊 Stats
 
 #
