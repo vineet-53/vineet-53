@@ -33,8 +33,6 @@ I'm an indie full-stack developer and freelancer, dedicated to crafting my uniqu
 
 ![Vineet Singh GitHub stats](https://github-readme-stats.vercel.app/api?username=vineet-53&show_icons=true&theme=gruvbox)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineet-53&show_icons=true&locale=en&layout=compact" alt="vineet-53" /></p>
-
 # 
 
 ### Connect with me:
