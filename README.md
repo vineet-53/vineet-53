@@ -33,9 +33,18 @@ I'm an indie full-stack developer and freelancer, dedicated to crafting my uniqu
 
 ![Vineet Singh GitHub stats](https://github-readme-stats.vercel.app/api?username=vineet-53&show_icons=true&theme=gruvbox)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vineet-53&show_icons=true&locale=en&layout=compact" alt="vineet-53" /></p>
+
+# 
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet53/)
+
+#
+
 ### Social Profile Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://vineet-53.github.io/vineet-53/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet53/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/vineet-53/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/vineet-53)
